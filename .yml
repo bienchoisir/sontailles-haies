@@ -1,0 +1,3 @@
+              - name: Hugo-Site
+                uses: chabad360/hugo-actions@v2
+            
